@@ -4,7 +4,7 @@ by gyx THUCST
 Simple raster graphics, also with anti-aliasing. The final result is the symbol of 怪盗キッド.
 
 ## 2 Requirements
-+ opengl
++ opencv
 
 ## 3 Quick Start
 ```
